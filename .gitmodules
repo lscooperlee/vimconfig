@@ -1,0 +1,12 @@
+[submodule "pack/supertab/start/supertab"]
+	path = pack/supertab/start/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "pack/pythonmode/start/python-mode"]
+	path = pack/pythonmode/start/python-mode
+	url = https://github.com/python-mode/python-mode.git
+[submodule "pack/nerdtree/start/nerdtree"]
+	path = pack/nerdtree/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/jedi-vim/start/jedi-vim"]
+	path = pack/jedi-vim/start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git

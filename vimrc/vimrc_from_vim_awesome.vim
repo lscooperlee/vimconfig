@@ -397,8 +397,16 @@ function! VisualSelection(direction, extra_filter) range
     let @" = l:saved_reg
 endfunction
 
+""""""""""""""""""""""""""""""""""""""""""""""""
+
 setlocal spell spelllang=en_us
 
 set mouse=a
 
 set nofoldenable
+
+try
+    set undodir=~/.vim/undo
+    set undofile
+catch
+endtry

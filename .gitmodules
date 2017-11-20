@@ -10,3 +10,9 @@
 [submodule "pack/jedi-vim/start/jedi-vim"]
 	path = pack/jedi-vim/start/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "pack/surround/start/vim-surround"]
+	path = pack/surround/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/mru/start/mru.vim"]
+	path = pack/mru/start/mru.vim
+	url = https://github.com/vim-scripts/mru.vim.git

@@ -13,11 +13,6 @@
 	url = https://github.com/scrooloose/nerdtree.git
     branch = master
 
-[submodule "pack/jedi-vim/start/jedi-vim"]
-	path = pack/jedi-vim/start/jedi-vim
-	url = https://github.com/davidhalter/jedi-vim.git
-    branch = master
-
 [submodule "pack/surround/start/vim-surround"]
 	path = pack/surround/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
@@ -28,3 +23,7 @@
 	url = https://github.com/vim-scripts/mru.vim.git
     branch = master
 
+[submodule "pack/completor/start/completor.vim"]
+	path = pack/completor/start/completor.vim
+	url = https://github.com/maralla/completor.vim.git
+	branch = master

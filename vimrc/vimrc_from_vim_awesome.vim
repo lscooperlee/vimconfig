@@ -153,7 +153,8 @@ if $COLORTERM == 'gnome-terminal'
 endif
 
 try
-    colorscheme desert
+    colorscheme torte
+    set t_Co=256
 catch
 endtry
 
@@ -284,7 +285,8 @@ set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ 
 " => Editing mappings
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Remap VIM 0 to first non-blank character
-map 0 ^
+" Stupid
+" map 0 ^
 
 " Move a line of text using ALT+[jk] or Command+[jk] on mac
 nmap <M-j> mz:m+<cr>`z
@@ -399,7 +401,7 @@ endfunction
 
 """"""""""""""""""""""""""""""""""""""""""""""""
 
-setlocal spell spelllang=en_us
+setlocal spell spelllang=en_nz
 
 set mouse=a
 

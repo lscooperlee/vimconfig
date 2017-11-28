@@ -27,3 +27,13 @@
 	path = pack/completor/start/completor.vim
 	url = https://github.com/maralla/completor.vim.git
 	branch = master
+
+[submodule "pack/airline/start/vim-airline-themes"]
+	path = pack/airline/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+	branch = master
+
+[submodule "pack/airline/start/vim-airline"]
+	path = pack/airline/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+	branch = master

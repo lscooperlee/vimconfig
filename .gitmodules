@@ -37,3 +37,12 @@
 	path = pack/airline/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
 	branch = master
+
+[submodule "pack/nerdcommenter/start/nerdcommenter"]
+	path = pack/nerdcommenter/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+	branch = master
+[submodule "pack/ctrlp/start/ctrlp.vim"]
+	path = pack/ctrlp/start/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+	branch = master

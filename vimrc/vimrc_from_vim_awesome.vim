@@ -407,6 +407,8 @@ set mouse=a
 
 set nofoldenable
 
+set nospell
+
 try
     set undodir=~/.vim/undo
     set undofile

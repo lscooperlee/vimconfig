@@ -46,3 +46,7 @@
 	path = pack/ctrlp/start/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
 	branch = master
+[submodule "pack/markdown/start/vim-markdown"]
+	path = pack/markdown/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+	branch = master

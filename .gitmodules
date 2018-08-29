@@ -50,3 +50,7 @@
 	path = pack/markdown/start/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
 	branch = master
+[submodule "pack/vim-ibus/start/vim-ibus"]
+	path = pack/vim-ibus/start/vim-ibus
+	url = https://github.com/h-youhei/vim-ibus.git
+    branch = master

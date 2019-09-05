@@ -5,4 +5,4 @@ source ~/.vim/vimrcs/completor.vim
 source ~/.vim/vimrcs/airline.vim
 source ~/.vim/vimrcs/markdown.vim
 source ~/.vim/vimrcs/ctrlsf.vim
-
+source ~/.vim/vimrcs/ibus.vim

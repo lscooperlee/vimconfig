@@ -54,3 +54,7 @@
 	path = pack/vim-ibus/start/vim-ibus
 	url = https://github.com/h-youhei/vim-ibus.git
     branch = master
+[submodule "pack/ctrlsf/start/ctrlsf.vim"]
+	path = pack/ctrlsf/start/ctrlsf.vim
+	url = https://github.com/dyng/ctrlsf.vim.git
+	branch = master

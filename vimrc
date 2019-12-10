@@ -6,3 +6,5 @@ source ~/.vim/vimrcs/airline.vim
 source ~/.vim/vimrcs/markdown.vim
 source ~/.vim/vimrcs/ctrlsf.vim
 source ~/.vim/vimrcs/ibus.vim
+source ~/.vim/vimrcs/custom.vim
+source ~/.vim/vimrcs/nerdcommenter.vim

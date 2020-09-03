@@ -1,3 +1,4 @@
+if has('python3')
 function! TestCustom()
 python3 << EOF
 
@@ -20,3 +21,4 @@ EOF
 endfunction
 
 nmap <leader>o :call TestCustom()<cr>
+endif

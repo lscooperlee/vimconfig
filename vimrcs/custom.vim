@@ -22,3 +22,6 @@ endfunction
 
 nmap <leader>o :call TestCustom()<cr>
 endif
+
+let g:clang_format_fallback_style='Webkit'
+map <C-S-I> :py3f /usr/share/clang/clang-format.py<cr>
